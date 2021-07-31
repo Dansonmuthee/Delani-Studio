@@ -1,19 +1,19 @@
 # Delani Studio
 
-[Check it out](https://Dansonmuthee.github.io/Delani-Studio/)
+[Check it out](https://kamauvick.github.io/Delani-Studio/)
 ## Description.
 Delani Studio is a site built to practice concepts learnt including JQuery, bootstrap, javascript and working with APIS's.
 
 ## Author
->Danson
+>Victor
 
 ## Screenshot.
-<img src="https://github.com/Dansonmuthee/Delani-Studio/blob/master/images/screenshot/shot.png?raw=true" width="1000">
+<img src="https://github.com/kamauvick/Delani-Studio/blob/master/images/screenshot/shot.png?raw=true" width="1000">
 
 ## Setup.
 To get a local copy of the site:
 
-`git clone https://github.com/Dansonmuthee/Delani-Studio.git`
+`git clone https://github.com/kamauvick/Delani-Studio.git`
 
 `Extract` the cloned file.
 
@@ -31,7 +31,7 @@ To get a local copy of the site:
 ## BDD
 | Inputs |  Description |
 | :---         |          ---: |
-| Name   | The users name. `eg Danson muthee`|
+| Name   | The users name. `eg victor|
 | Email     | The users email. ``eg usermail@gmail.com``   |
 | Message    | The message from the user.   |
 
@@ -39,7 +39,7 @@ To get a local copy of the site:
 The MailChimp API doesn't work properly.
 
 ## License
->MIT LICENSE &copy; 2019 Danson
+>MIT LICENSE &copy; 2019 victor
 
 ## Collaborate
-To contribute to Delani studio, reach me on [Email](dmuthee15@gmail.com).
+To contribute to Delani studio, reach me on [Email](kamauvick@gmail.com).
